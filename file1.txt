@@ -2,3 +2,4 @@ this is my textfile
 another line
 another ilne
 more lines
+add merge conflict
